@@ -1,5 +1,11 @@
 <h1>Hi, I'm Isaac, an <a href="https://www.linkedin.com/in/isaacmendezli/">IT Professional</a>☺</h1>
 
+<h2>👨‍💻 Email Development Projects:</h2>
+
+- <b>Microsoft Azure</b>
+  - [Configuring Active Directory within Azure VMs](https://github.com/IZEK4K/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IZEK4K/azure-network-protocols)
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
