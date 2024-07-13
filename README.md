@@ -5,58 +5,42 @@
 - <b>Promotional Emails</b>
   - <b>Advance Woodworks</b>
     - [Configuring Active Directory within Azure VMs](https://github.com/IZEK4K/configure-ad)
-    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IZEK4K/azure-network-protocols)
   - <b>XP World</b>
     - [Configuring Active Directory within Azure VMs](https://github.com/IZEK4K/configure-ad)
-    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IZEK4K/azure-network-protocols)
   - <b>Pink Artistry</b>
     - [Configuring Active Directory within Azure VMs](https://github.com/IZEK4K/configure-ad)
-    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IZEK4K/azure-network-protocols)
   - <b>Zoftek</b>
     - [Configuring Active Directory within Azure VMs](https://github.com/IZEK4K/configure-ad)
-    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IZEK4K/azure-network-protocols)
  
 - <b>Newletter Emails</b>
   - <b>Advance Woodworks</b>
     - [Configuring Active Directory within Azure VMs](https://github.com/IZEK4K/configure-ad)
-    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IZEK4K/azure-network-protocols)
   - <b>XP World</b>
     - [Configuring Active Directory within Azure VMs](https://github.com/IZEK4K/configure-ad)
-    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IZEK4K/azure-network-protocols)
   - <b>Pink Artistry</b>
     - [Configuring Active Directory within Azure VMs](https://github.com/IZEK4K/configure-ad)
-    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IZEK4K/azure-network-protocols)
   - <b>Zoftek</b>
     - [Configuring Active Directory within Azure VMs](https://github.com/IZEK4K/configure-ad)
-    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IZEK4K/azure-network-protocols)
 
 - <b>Landing Page Emails</b>
   - <b>Advance Woodworks</b>
     - [Configuring Active Directory within Azure VMs](https://github.com/IZEK4K/configure-ad)
-    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IZEK4K/azure-network-protocols)
   - <b>XP World</b>
     - [Configuring Active Directory within Azure VMs](https://github.com/IZEK4K/configure-ad)
-    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IZEK4K/azure-network-protocols)
   - <b>Pink Artistry</b>
     - [Configuring Active Directory within Azure VMs](https://github.com/IZEK4K/configure-ad)
-    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IZEK4K/azure-network-protocols)
   - <b>Zoftek</b>
     - [Configuring Active Directory within Azure VMs](https://github.com/IZEK4K/configure-ad)
-    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IZEK4K/azure-network-protocols)
    
 - <b>Transactional Emails</b>
   - <b>Advance Woodworks</b>
     - [Configuring Active Directory within Azure VMs](https://github.com/IZEK4K/configure-ad)
-    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IZEK4K/azure-network-protocols)
   - <b>XP World</b>
     - [Configuring Active Directory within Azure VMs](https://github.com/IZEK4K/configure-ad)
-    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IZEK4K/azure-network-protocols)
   - <b>Pink Artistry</b>
     - [Configuring Active Directory within Azure VMs](https://github.com/IZEK4K/configure-ad)
-    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IZEK4K/azure-network-protocols)
   - <b>Zoftek</b>
-    - [Configuring Active Directory within Azure VMs](https://github.com/IZEK4K/configure-ad)
-    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IZEK4K/azure-network-protocols)
+    - [Configuring Active Directory within Azure VMs](https://github.com/IZEK4K/configure-ad) 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
