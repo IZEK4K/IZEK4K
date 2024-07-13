@@ -2,7 +2,19 @@
 
 <h2>👨‍💻 Email Development Projects:</h2>
 
-- <b>Microsoft Azure</b>
+- <b>Promotional Emails</b>
+  - [Configuring Active Directory within Azure VMs](https://github.com/IZEK4K/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IZEK4K/azure-network-protocols)
+ 
+- <b>Newsletter Emails</b>
+  - [Configuring Active Directory within Azure VMs](https://github.com/IZEK4K/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IZEK4K/azure-network-protocols)
+ 
+- <b>Landing Page Emails</b>
+  - [Configuring Active Directory within Azure VMs](https://github.com/IZEK4K/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IZEK4K/azure-network-protocols)
+ 
+- <b>Transactional Emails</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/IZEK4K/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IZEK4K/azure-network-protocols)
 
