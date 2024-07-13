@@ -3,22 +3,58 @@
 <h2>👨‍💻 Email Development Projects:</h2>
 
 - <b>Promotional Emails</b>
-  - <b>Promotional Emails</b>
+  - <b>Advance Woodworks</b>
+    - [Configuring Active Directory within Azure VMs](https://github.com/IZEK4K/configure-ad)
+    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IZEK4K/azure-network-protocols)
+  - <b>XP World</b>
+    - [Configuring Active Directory within Azure VMs](https://github.com/IZEK4K/configure-ad)
+    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IZEK4K/azure-network-protocols)
+  - <b>Pink Artistry</b>
+    - [Configuring Active Directory within Azure VMs](https://github.com/IZEK4K/configure-ad)
+    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IZEK4K/azure-network-protocols)
+  - <b>Zoftek</b>
     - [Configuring Active Directory within Azure VMs](https://github.com/IZEK4K/configure-ad)
     - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IZEK4K/azure-network-protocols)
  
-- <b>Newsletter Emails</b>
-  - <b>Promotional Emails</b>
+- <b>Newletter Emails</b>
+  - <b>Advance Woodworks</b>
     - [Configuring Active Directory within Azure VMs](https://github.com/IZEK4K/configure-ad)
     - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IZEK4K/azure-network-protocols)
- 
+  - <b>XP World</b>
+    - [Configuring Active Directory within Azure VMs](https://github.com/IZEK4K/configure-ad)
+    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IZEK4K/azure-network-protocols)
+  - <b>Pink Artistry</b>
+    - [Configuring Active Directory within Azure VMs](https://github.com/IZEK4K/configure-ad)
+    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IZEK4K/azure-network-protocols)
+  - <b>Zoftek</b>
+    - [Configuring Active Directory within Azure VMs](https://github.com/IZEK4K/configure-ad)
+    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IZEK4K/azure-network-protocols)
+
 - <b>Landing Page Emails</b>
-  - <b>Promotional Emails</b>
+  - <b>Advance Woodworks</b>
     - [Configuring Active Directory within Azure VMs](https://github.com/IZEK4K/configure-ad)
     - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IZEK4K/azure-network-protocols)
- 
+  - <b>XP World</b>
+    - [Configuring Active Directory within Azure VMs](https://github.com/IZEK4K/configure-ad)
+    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IZEK4K/azure-network-protocols)
+  - <b>Pink Artistry</b>
+    - [Configuring Active Directory within Azure VMs](https://github.com/IZEK4K/configure-ad)
+    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IZEK4K/azure-network-protocols)
+  - <b>Zoftek</b>
+    - [Configuring Active Directory within Azure VMs](https://github.com/IZEK4K/configure-ad)
+    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IZEK4K/azure-network-protocols)
+   
 - <b>Transactional Emails</b>
-  - <b>Promotional Emails</b>
+  - <b>Advance Woodworks</b>
+    - [Configuring Active Directory within Azure VMs](https://github.com/IZEK4K/configure-ad)
+    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IZEK4K/azure-network-protocols)
+  - <b>XP World</b>
+    - [Configuring Active Directory within Azure VMs](https://github.com/IZEK4K/configure-ad)
+    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IZEK4K/azure-network-protocols)
+  - <b>Pink Artistry</b>
+    - [Configuring Active Directory within Azure VMs](https://github.com/IZEK4K/configure-ad)
+    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IZEK4K/azure-network-protocols)
+  - <b>Zoftek</b>
     - [Configuring Active Directory within Azure VMs](https://github.com/IZEK4K/configure-ad)
     - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IZEK4K/azure-network-protocols)
 
