@@ -15,7 +15,7 @@
 
 - <b>Promotional Emails</b>
   - <b>Advance Woodworks</b>
-    - [Advance Woodworks Promotonal Email]([https://github.com/IZEK4K/configure-ad](https://github.com/IZEK4K/advancewoodworks-emails/blob/main/Promotional%20Email%201/aw-promo-email1.html))
+    - [Advance Woodworks Promotional Email](https://github.com/IZEK4K/configure-ad](https://github.com/IZEK4K/advancewoodworks-emails/blob/main/Promotional%20Email%201/aw-promo-email1.html)
   - <b>XP World</b>
     - [Configuring Active Directory within Azure VMs](https://github.com/IZEK4K/configure-ad)
   - <b>Pink Artistry</b>
